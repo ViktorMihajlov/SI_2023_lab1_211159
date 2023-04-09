@@ -27,3 +27,7 @@
     git push origin bug1
     git push origin bug2
     git push --force origin bug3
+    
+    Imav conflict so toa sto git bash ne prepozna koj sum pa trebase da napravam povrzuvanje so komandite
+git config --global user.email "viktor.mihajov@students.finki.ukim.mk"
+git config --local user "Viktor Mihajlov"
